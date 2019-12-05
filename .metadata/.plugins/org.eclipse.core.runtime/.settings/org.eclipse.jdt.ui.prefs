@@ -1,0 +1,20 @@
+eclipse.preferences.version=1
+java_keyword=255,47,146
+java_keyword_return=255,47,146
+org.eclipse.jdt.ui.formatterprofiles.version=17
+org.eclipse.jdt.ui.text.custom_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+semanticHighlighting.abstractClass.color=255,132,255
+semanticHighlighting.abstractMethodInvocation.color=255,64,255
+semanticHighlighting.class.color=255,132,255
+semanticHighlighting.field.color=121,128,255
+semanticHighlighting.inheritedMethodInvocation.color=255,125,120
+semanticHighlighting.interface.color=255,38,0
+semanticHighlighting.localVariable.color=255,125,120
+semanticHighlighting.localVariableDeclaration.color=117,213,255
+semanticHighlighting.method.color=255,137,216
+semanticHighlighting.methodDeclarationName.color=4,50,255
+semanticHighlighting.staticMethodInvocation.color=181,38,179
+semanticHighlighting.varKeyword.color=255,47,146
+spelling_locale_initialized=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true
